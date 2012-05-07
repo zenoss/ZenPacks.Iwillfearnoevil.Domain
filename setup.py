@@ -5,7 +5,7 @@
 NAME = "ZenPacks.Iwillfearnoevil.Domain"
 VERSION = "1.0.6"
 AUTHOR = "Chris Hubbard"
-LICENSE = ""
+LICENSE = "GPLv2"
 NAMESPACE_PACKAGES = ['ZenPacks', 'ZenPacks.Iwillfearnoevil']
 PACKAGES = ['ZenPacks', 'ZenPacks.Iwillfearnoevil', 'ZenPacks.Iwillfearnoevil.Domain']
 INSTALL_REQUIRES = []
